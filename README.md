@@ -7,7 +7,7 @@ Requirements:
 - Running speedtests with LibreSpeed
 - No barrier for users
 - As simple as possible
-- Container should also with for the packet loss test
+- Container should also work with for the packet loss test
 
 All images are based on Alpine. Usually TCP port 80 is exposed.
 
